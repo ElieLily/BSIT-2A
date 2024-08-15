@@ -1,6 +1,5 @@
 <?php
 	echo "Hello World"
-        echo "# BSIT-2A" >> README.md
 
 
 
